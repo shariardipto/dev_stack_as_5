@@ -1,4 +1,4 @@
-# DevStack Builder
+# Dev Stack
 
 A clean and interactive React app where users explore popular development technologies and build their own custom tech stack by selecting tools they want to use.
 
@@ -15,8 +15,6 @@ A clean and interactive React app where users explore popular development techno
 - Dynamic technology loading from a local JSON source (`public/technologies.json`) with loading and error states.
 - Build-your-stack interaction: add technologies, prevent duplicates, remove single items, or clear all selections.
 - Real-time UI feedback using toast notifications for add, duplicate, remove, and empty-state actions.
-
-## React Questions (Short Answers)
 
 ### 1. What is JSX, and why is it used in React?
 
