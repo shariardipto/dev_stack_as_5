@@ -12,7 +12,7 @@ const StackPanel = ({
   onRemoveAll,
 }: StackPanelProps) => {
   return (
-    <aside className="lg:sticky lg:top-24 lg:self-start">
+    <aside className="lg:self-start">
       <div className="overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm">
         <div className="border-b border-slate-200 p-5">
           <h2 className="text-xl font-black text-slate-950">Your Stack</h2>
